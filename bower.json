@@ -20,10 +20,10 @@
     "ngUuidSecure",
     "angular-uuid",
     "angular-uuid-secure",
-    "secure"
-    "generator"
-    "angular"
-    "angularjs"
+    "secure",
+    "generator",
+    "angular",
+    "angularjs",
     "angular.js"
   ],
   "license": "MIT",

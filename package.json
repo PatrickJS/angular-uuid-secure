@@ -23,10 +23,10 @@
     "ngUuidSecure",
     "angular-uuid",
     "angular-uuid-secure",
-    "secure"
-    "generator"
-    "angular"
-    "angularjs"
+    "secure",
+    "generator",
+    "angular",
+    "angularjs",
     "angular.js"
   ],
   "author": "gdi2290 <github@gdi2290.com>",
