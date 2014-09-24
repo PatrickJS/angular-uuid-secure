@@ -1,0 +1,38 @@
+{
+  "name": "angular-uuid-secure",
+  "version": "0.0.1",
+  "description": "Most secure uuid generator in for Angular.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/angular-uuid-secure.git"
+  },
+  "keywords": [
+    "Patrick",
+    "PatrickJS",
+    "gdi2290",
+    "uuid",
+    "$uuid",
+    "ngUUID",
+    "ngUUIDSecure",
+    "ngUuid",
+    "crypto",
+    "ngUuidSecure",
+    "angular-uuid",
+    "angular-uuid-secure",
+    "secure"
+    "generator"
+    "angular"
+    "angularjs"
+    "angular.js"
+  ],
+  "author": "gdi2290 <github@gdi2290.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdi2290/angular-uuid-secure/issues"
+  },
+  "homepage": "https://github.com/gdi2290/angular-uuid-secure"
+}
