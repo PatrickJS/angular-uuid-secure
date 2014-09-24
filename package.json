@@ -1,6 +1,6 @@
 {
   "name": "angular-uuid-secure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Most secure uuid generator in for Angular.js ",
   "main": "index.js",
   "scripts": {
