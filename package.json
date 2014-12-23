@@ -1,8 +1,8 @@
 {
   "name": "angular-uuid-secure",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Most secure uuid generator in for Angular.js ",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
