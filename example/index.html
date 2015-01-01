@@ -3,7 +3,16 @@
 <head>
   <title>UUID Secure</title>
 </head>
-<body>
+<body id="ng-app" ng-app="yourApp">
+
+<script>
+  angular.module('yourApp', ['ngUUID'])
+  .run(function($uuid, $log) {
+    var id = $uuid();
+    $log.info('Generated uuid: '+ id);
+    $log.info('is uuid? '+ $uuid.isUUID(id));
+  });
+</script>
 
 </body>
 </html>
